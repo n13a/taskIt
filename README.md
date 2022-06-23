@@ -1,4 +1,4 @@
-# task_tracker
+# TaskIt
 
-built With React js
+task tracker app built with React js
 
